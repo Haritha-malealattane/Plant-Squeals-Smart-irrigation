@@ -144,4 +144,4 @@ Also: the sound sensor module measures audible sound level. Detecting true plant
 
 ## Team
 
-Priyadharshini K, Venkata Manasa D, Haritha M. Supervisor: Mr. M. Gnana Prakash.
+Priyadharshini K, Haritha M, Venkata Manasa D. Supervisor: Mr. M. Gnana Prakash.
